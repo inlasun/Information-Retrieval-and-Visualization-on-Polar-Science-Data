@@ -1,0 +1,34 @@
+[
+    {
+        "coordinate": {
+            "latitude": -89.9982179, 
+            "longitude": -92.5657606
+        }, 
+        "name": "Amundsen-Scott South Pole Station", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.8444739, 
+            "longitude": 166.6696371
+        }, 
+        "name": "McMurdo Station", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.0666922, 
+            "longitude": -107.9917071
+        }, 
+        "name": "Canada", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": -79.4666667, 
+            "longitude": -112.0666667
+        }, 
+        "name": "West Antarctic Ice Sheet", 
+        "occurrence": 1
+    }
+]

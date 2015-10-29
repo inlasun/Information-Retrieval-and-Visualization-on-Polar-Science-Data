@@ -1,0 +1,20 @@
+<plugin id="urlfilter-exact-dedup" name="exact dedup in url filter"
+        version="1.0.0" provider-name="sureleo">
+
+    <runtime>
+        <library name="urlfilter-exact-dedup.jar">
+            <export name="*"/>
+        </library>
+    </runtime>
+
+    <requires>
+        <import plugin="nutch-extensionpoints"/>
+    </requires>
+
+    <extension id="org.apache.nutch.net.urlfilter.exactdedup"
+               name="Nutch Url Filter with EXACT deduplications"
+               point="org.apache.nutch.net.URLFilter">
+        <implementation id="URLExactDedupFilter"
+                        class="org.apache.nutch.urlfilter.exactdedup.URLExactDedupFilter"/>
+    </extension>
+</plugin>

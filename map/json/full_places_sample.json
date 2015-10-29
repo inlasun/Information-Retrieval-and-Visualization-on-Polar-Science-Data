@@ -1,0 +1,530 @@
+[
+    {
+        "coordinate": {
+            "latitude": 34.2331373, 
+            "longitude": -102.4107493
+        }, 
+        "name": "Earth", 
+        "occurrence": 59
+    }, 
+    {
+        "coordinate": {
+            "latitude": -10.3333333, 
+            "longitude": -53.2
+        }, 
+        "name": "Brazil", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 21.2160437, 
+            "longitude": -157.975203
+        }, 
+        "name": "Hawaii", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 36.5748441, 
+            "longitude": 139.2394179
+        }, 
+        "name": "Japan", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -24.7761086, 
+            "longitude": 134.755
+        }, 
+        "name": "Australia", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 37.7799273, 
+            "longitude": -121.9780153
+        }, 
+        "name": "San Ramon", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 33.2588817, 
+            "longitude": -86.8295337
+        }, 
+        "name": "Alabama", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 42.1481196, 
+            "longitude": -81.2668541
+        }, 
+        "name": "Lake Erie", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 40.7305991, 
+            "longitude": -73.9865812
+        }, 
+        "name": "New York", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 40.0149856, 
+            "longitude": -105.2705456
+        }, 
+        "name": "Boulder", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 22.3511148, 
+            "longitude": 78.6677428
+        }, 
+        "name": "India", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 56.0000002, 
+            "longitude": 103.9999998
+        }, 
+        "name": "asia", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 45.9896587, 
+            "longitude": -94.6113288
+        }, 
+        "name": "Minnesota", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 44.7923065, 
+            "longitude": -82.3311296
+        }, 
+        "name": "Lake Huron", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -20.4859418, 
+            "longitude": -54.6183865
+        }, 
+        "name": "Central America", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -35.0039032, 
+            "longitude": -65.2699754
+        }, 
+        "name": "Argentina", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 22.33183425, 
+            "longitude": 114.028558444
+        }, 
+        "name": "SUN", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 36.0103562, 
+            "longitude": -84.2696449
+        }, 
+        "name": "Oak Ridge", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": -79.4666667, 
+            "longitude": -112.0666667
+        }, 
+        "name": "West Antarctic Ice Sheet", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 59.6749712, 
+            "longitude": 14.5208584
+        }, 
+        "name": "sweden", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -20.9999998, 
+            "longitude": -61.0000002
+        }, 
+        "name": "South America", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 47.6201461, 
+            "longitude": -100.540737
+        }, 
+        "name": "North Dakota", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 43.77075295, 
+            "longitude": -77.6780503557
+        }, 
+        "name": "Lake Ontario", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 27.7567667, 
+            "longitude": -81.4639835
+        }, 
+        "name": "Florida", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 29.5696734, 
+            "longitude": -94.936592
+        }, 
+        "name": "Galveston Bay", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 25.7872222, 
+            "longitude": -80.1380556
+        }, 
+        "name": "ArtCenter South Florida", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 25.0000001, 
+            "longitude": -90.0000001
+        }, 
+        "name": "Gulf of Mexico", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 43.4930789, 
+            "longitude": -112.044349
+        }, 
+        "name": "Idaho Falls", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 32.527002, 
+            "longitude": -85.4367483053
+        }, 
+        "name": "Auburn", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 55.77299305, 
+            "longitude": -3.88964226449
+        }, 
+        "name": "Everglades", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 31.8160381, 
+            "longitude": -99.5120986
+        }, 
+        "name": "Texas", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -89.9982179, 
+            "longitude": -92.5657606
+        }, 
+        "name": "Amundsen-Scott South Pole Station", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 47.7365367, 
+            "longitude": -87.4844915
+        }, 
+        "name": "Lake Superior", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.0666922, 
+            "longitude": -107.9917071
+        }, 
+        "name": "Canada", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 29.705694, 
+            "longitude": -98.5112499
+        }, 
+        "name": "Caribbean", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 36.7014631, 
+            "longitude": -118.7559974
+        }, 
+        "name": "California", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 25.6364246, 
+            "longitude": -80.4989467
+        }, 
+        "name": "Miami-Dade County", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 50.8189904, 
+            "longitude": -4.326019
+        }, 
+        "name": "Great Lakes", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 42.3588276, 
+            "longitude": -71.0572601
+        }, 
+        "name": "State", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 40.7670126, 
+            "longitude": -111.8904308
+        }, 
+        "name": "Salt Lake City", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 55.0, 
+            "longitude": -114.9999999
+        }, 
+        "name": "Alberta", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 43.0786852, 
+            "longitude": 34.7425505
+        }, 
+        "name": "Black Sea", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 50.6407351, 
+            "longitude": 4.66696
+        }, 
+        "name": "Belgium", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 36.1662859, 
+            "longitude": -115.149225
+        }, 
+        "name": "Las Vegas", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 52.37399675, 
+            "longitude": 4.84554460451
+        }, 
+        "name": "West Antarctica", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -59.9999999, 
+            "longitude": 89.9999999
+        }, 
+        "name": "Southern Ocean", 
+        "occurrence": 6
+    }, 
+    {
+        "coordinate": {
+            "latitude": 35.8970917, 
+            "longitude": -78.860285
+        }, 
+        "name": "Research Triangle Park", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 38.797552, 
+            "longitude": -90.7856848
+        }, 
+        "name": "Lake Saint Louis", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 51.0000002, 
+            "longitude": -109.0000002
+        }, 
+        "name": "North America", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 42.6384261, 
+            "longitude": 12.674297
+        }, 
+        "name": "Italy", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 51.0000003, 
+            "longitude": 9.9999997
+        }, 
+        "name": "Europe", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 39.4225192, 
+            "longitude": -111.7143584
+        }, 
+        "name": "Utah", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 52.865196, 
+            "longitude": -7.9794599
+        }, 
+        "name": "Ireland", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 40.0028028, 
+            "longitude": -4.003104
+        }, 
+        "name": "spain", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 34.0313997, 
+            "longitude": -117.9895098
+        }, 
+        "name": "Latin America Bible Institute", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.8444739, 
+            "longitude": 166.6696371
+        }, 
+        "name": "McMurdo Station", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 38.9906657, 
+            "longitude": -77.026088
+        }, 
+        "name": "Silver Spring", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 39.7837304, 
+            "longitude": -100.4458825
+        }, 
+        "name": "United States", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 35.0000035, 
+            "longitude": 19.9999957
+        }, 
+        "name": "Mediterranean Sea", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 50.0000002, 
+            "longitude": -86.0000001
+        }, 
+        "name": "Ontario", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 2.0000003, 
+            "longitude": 15.9999997
+        }, 
+        "name": "Africa", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 32.59197975, 
+            "longitude": -85.4960857642
+        }, 
+        "name": "Auburn University", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 42.1856379, 
+            "longitude": -75.4143448
+        }, 
+        "name": "Arctic", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": -41.5000831, 
+            "longitude": 172.8344077
+        }, 
+        "name": "New Zealand", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 46.603354, 
+            "longitude": 1.8883335
+        }, 
+        "name": "France", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 43.9542707, 
+            "longitude": -87.0495545
+        }, 
+        "name": "Lake Michigan", 
+        "occurrence": 1
+    }
+]

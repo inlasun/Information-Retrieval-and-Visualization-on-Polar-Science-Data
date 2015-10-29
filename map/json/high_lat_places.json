@@ -1,0 +1,1346 @@
+[
+    {
+        "coordinate": {
+            "latitude": 69.1170629, 
+            "longitude": -105.0576024
+        }, 
+        "name": "Cambridge Bay", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.65890135, 
+            "longitude": 166.36735302
+        }, 
+        "name": "Inaccessible Island", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 67.8708198, 
+            "longitude": -156.8088688
+        }, 
+        "name": "Noatak River", 
+        "occurrence": 17
+    }, 
+    {
+        "coordinate": {
+            "latitude": 67.2385127, 
+            "longitude": -159.9816347
+        }, 
+        "name": "Northwest Arctic Borough", 
+        "occurrence": 12
+    }, 
+    {
+        "coordinate": {
+            "latitude": 68.3573857, 
+            "longitude": -133.728544
+        }, 
+        "name": "\u0130nuvik", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.6854622, 
+            "longitude": 166.386216161
+        }, 
+        "name": "Tent Island", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": -73.47700265, 
+            "longitude": 169.769191446
+        }, 
+        "name": "Coulman Island", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 65.2652587, 
+            "longitude": 171.1529955
+        }, 
+        "name": "Anadyr River", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": -72.5, 
+            "longitude": -111.916667
+        }, 
+        "name": "Amundsen Sea", 
+        "occurrence": 22
+    }, 
+    {
+        "coordinate": {
+            "latitude": 83.0, 
+            "longitude": -58.0
+        }, 
+        "name": "Lincoln Sea", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": -81.65, 
+            "longitude": -149.0667
+        }, 
+        "name": "Siple Dome", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 68.1433333, 
+            "longitude": -151.7358333
+        }, 
+        "name": "Anaktuvuk Pass", 
+        "occurrence": 8
+    }, 
+    {
+        "coordinate": {
+            "latitude": 78.7390648, 
+            "longitude": 16.3067895
+        }, 
+        "name": "Spitsbergen", 
+        "occurrence": 20
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.119514, 
+            "longitude": -149.414953527
+        }, 
+        "name": "Seward Peninsula", 
+        "occurrence": 77
+    }, 
+    {
+        "coordinate": {
+            "latitude": -62.607919, 
+            "longitude": -60.6596198961
+        }, 
+        "name": "South Shetland Islands", 
+        "occurrence": 84
+    }, 
+    {
+        "coordinate": {
+            "latitude": 62.578889, 
+            "longitude": 11.345
+        }, 
+        "name": "RRS", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 65.0000001, 
+            "longitude": -28.0000001
+        }, 
+        "name": "Denmark Strait", 
+        "occurrence": 27
+    }, 
+    {
+        "coordinate": {
+            "latitude": -74.8973731, 
+            "longitude": 163.676071029
+        }, 
+        "name": "Inexpressible Island", 
+        "occurrence": 5
+    }, 
+    {
+        "coordinate": {
+            "latitude": 77.4686357, 
+            "longitude": -69.2222746
+        }, 
+        "name": "Thule", 
+        "occurrence": 16
+    }, 
+    {
+        "coordinate": {
+            "latitude": 65.1122222, 
+            "longitude": -147.4772222
+        }, 
+        "name": "Chatanika", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.5107989, 
+            "longitude": 167.822826348
+        }, 
+        "name": "Ross Island", 
+        "occurrence": 66
+    }, 
+    {
+        "coordinate": {
+            "latitude": 66.596318, 
+            "longitude": -160.006789216
+        }, 
+        "name": "Selawik", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.78063, 
+            "longitude": -53.3672124505
+        }, 
+        "name": "Disko Island", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": -78.4666674, 
+            "longitude": 106.7996653
+        }, 
+        "name": "Vostok Station", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 65.0331721, 
+            "longitude": 60.115404
+        }, 
+        "name": "Grove Mountains", 
+        "occurrence": 28
+    }, 
+    {
+        "coordinate": {
+            "latitude": -66.2821111, 
+            "longitude": 110.5255278
+        }, 
+        "name": "Casey Station", 
+        "occurrence": 29
+    }, 
+    {
+        "coordinate": {
+            "latitude": 73.254625, 
+            "longitude": -78.5619745414
+        }, 
+        "name": "Bylot Island", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.24592765, 
+            "longitude": -1.61290480718
+        }, 
+        "name": "Shetland", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 62.4709394, 
+            "longitude": -114.4384901
+        }, 
+        "name": "Yellowknife", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.322131, 
+            "longitude": 16.1222343
+        }, 
+        "name": "Andenes", 
+        "occurrence": 9
+    }, 
+    {
+        "coordinate": {
+            "latitude": 71.3346596, 
+            "longitude": -156.619589
+        }, 
+        "name": "Salt Water Lagoon", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 67.8902778, 
+            "longitude": 21.1080556
+        }, 
+        "name": "Esrange", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 63.878678, 
+            "longitude": -149.650166
+        }, 
+        "name": "Denali", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 78.9258845, 
+            "longitude": 11.9255967
+        }, 
+        "name": "Ny-Alesund", 
+        "occurrence": 8
+    }, 
+    {
+        "coordinate": {
+            "latitude": 67.8550724, 
+            "longitude": 20.2255482
+        }, 
+        "name": "Kiruna", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.8744444, 
+            "longitude": -157.3441667
+        }, 
+        "name": "Taylor Mountains", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 85.0, 
+            "longitude": 0.0
+        }, 
+        "name": "Arctic Ocean", 
+        "occurrence": 567
+    }, 
+    {
+        "coordinate": {
+            "latitude": 82.91166465, 
+            "longitude": -46.3452661668
+        }, 
+        "name": "Sverdrup Islands", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.0000001, 
+            "longitude": 26.9999999
+        }, 
+        "name": "Gulf of Finland", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.7257282, 
+            "longitude": -153.265974502
+        }, 
+        "name": "Clark Peninsula", 
+        "occurrence": 12
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.66853635, 
+            "longitude": 166.530909569
+        }, 
+        "name": "Little Razorback Island", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 62.7777778, 
+            "longitude": -164.5230556
+        }, 
+        "name": "Emmonak", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 70.1958433, 
+            "longitude": -148.4657051
+        }, 
+        "name": "Deadhorse Airport", 
+        "occurrence": 5
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.615, 
+            "longitude": -147.1680556
+        }, 
+        "name": "Prince William Sound", 
+        "occurrence": 30
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.6494159, 
+            "longitude": 18.9561567
+        }, 
+        "name": "Tromso", 
+        "occurrence": 10
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.3896662, 
+            "longitude": 161.956139921
+        }, 
+        "name": "Lake Vida", 
+        "occurrence": 6
+    }, 
+    {
+        "coordinate": {
+            "latitude": 80.5785099, 
+            "longitude": 57.6365483438
+        }, 
+        "name": "Heiss Island", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": -73.0, 
+            "longitude": -45.0
+        }, 
+        "name": "Weddell Sea", 
+        "occurrence": 121
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.0000001, 
+            "longitude": -175.0000001
+        }, 
+        "name": "Bering Sea", 
+        "occurrence": 150
+    }, 
+    {
+        "coordinate": {
+            "latitude": -70.73038925, 
+            "longitude": -69.8195892213
+        }, 
+        "name": "Alexander Island", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 78.7198519, 
+            "longitude": 20.3493328
+        }, 
+        "name": "Svalbard", 
+        "occurrence": 48
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.82965355, 
+            "longitude": 166.662959925
+        }, 
+        "name": "Arrival Heights", 
+        "occurrence": 56
+    }, 
+    {
+        "coordinate": {
+            "latitude": -62.0585897, 
+            "longitude": -56.7543393974
+        }, 
+        "name": "Bridgeman Island", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.2971519, 
+            "longitude": -151.2821306
+        }, 
+        "name": "Jason Peninsula", 
+        "occurrence": 14
+    }, 
+    {
+        "coordinate": {
+            "latitude": 78.9483492, 
+            "longitude": 11.9307466
+        }, 
+        "name": "Kongsfjorden", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -79.4666667, 
+            "longitude": -112.0666667
+        }, 
+        "name": "East Antarctic Ice Sheet", 
+        "occurrence": 38
+    }, 
+    {
+        "coordinate": {
+            "latitude": 77.6192349, 
+            "longitude": -42.8125967
+        }, 
+        "name": "Greenland", 
+        "occurrence": 26
+    }, 
+    {
+        "coordinate": {
+            "latitude": 63.2467777, 
+            "longitude": 25.9209164
+        }, 
+        "name": "Finland", 
+        "occurrence": 138
+    }, 
+    {
+        "coordinate": {
+            "latitude": -82.108182, 
+            "longitude": 34.378236
+        }, 
+        "name": "Antarctica", 
+        "occurrence": 157
+    }, 
+    {
+        "coordinate": {
+            "latitude": -67.6028056, 
+            "longitude": 62.873
+        }, 
+        "name": "Mawson Station", 
+        "occurrence": 34
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.6387368, 
+            "longitude": 166.4082927
+        }, 
+        "name": "Cape Evans", 
+        "occurrence": 50
+    }, 
+    {
+        "coordinate": {
+            "latitude": 68.63350045, 
+            "longitude": -149.610552822
+        }, 
+        "name": "Toolik Lake", 
+        "occurrence": 81
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.3943457, 
+            "longitude": 5.3258853
+        }, 
+        "name": "Bergen", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 74.0, 
+            "longitude": 165.9999999
+        }, 
+        "name": "East Siberian Sea", 
+        "occurrence": 15
+    }, 
+    {
+        "coordinate": {
+            "latitude": -62.4683, 
+            "longitude": -60.7683
+        }, 
+        "name": "Shirreff Cove", 
+        "occurrence": 8
+    }, 
+    {
+        "coordinate": {
+            "latitude": 90.0, 
+            "longitude": 0.0
+        }, 
+        "name": "North Pole", 
+        "occurrence": 65
+    }, 
+    {
+        "coordinate": {
+            "latitude": 76.6866657, 
+            "longitude": -119.689719636
+        }, 
+        "name": "Prince Patrick Island", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 70.2450108, 
+            "longitude": -148.3978377
+        }, 
+        "name": "Prudhoe Bay", 
+        "occurrence": 13
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.0666922, 
+            "longitude": -107.9917071
+        }, 
+        "name": "Canada", 
+        "occurrence": 1348
+    }, 
+    {
+        "coordinate": {
+            "latitude": 70.2006973, 
+            "longitude": -148.4598151
+        }, 
+        "name": "Deadhorse", 
+        "occurrence": 14
+    }, 
+    {
+        "coordinate": {
+            "latitude": 66.666667, 
+            "longitude": -61.366667
+        }, 
+        "name": "Cape Dyer", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.5335129, 
+            "longitude": -153.8220681
+        }, 
+        "name": "North Slope", 
+        "occurrence": 83
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.0624306, 
+            "longitude": -128.7068037
+        }, 
+        "name": "Watson Lake", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.6847549, 
+            "longitude": 165.3946773
+        }, 
+        "name": "McMurdo Sound", 
+        "occurrence": 160
+    }, 
+    {
+        "coordinate": {
+            "latitude": -63.2126819, 
+            "longitude": -59.9569708
+        }, 
+        "name": "Bransfield Strait", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 72.88704465, 
+            "longitude": -55.5962153083
+        }, 
+        "name": "Aap", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.1666277, 
+            "longitude": 24.9435079
+        }, 
+        "name": "helsinki", 
+        "occurrence": 24
+    }, 
+    {
+        "coordinate": {
+            "latitude": 64.8574398, 
+            "longitude": -151.34057415
+        }, 
+        "name": "Tanana River", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 68.437355, 
+            "longitude": -134.2113471
+        }, 
+        "name": "Mackenzie River", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 66.815163, 
+            "longitude": 65.8009163
+        }, 
+        "name": "Kharp", 
+        "occurrence": 15
+    }, 
+    {
+        "coordinate": {
+            "latitude": 63.7535819, 
+            "longitude": -68.5028019
+        }, 
+        "name": "Frobisher Bay", 
+        "occurrence": 11
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.74403575, 
+            "longitude": 166.777459951
+        }, 
+        "name": "Turtle Rock", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 70.110504, 
+            "longitude": -148.4728785
+        }, 
+        "name": "Sagavanirktok River", 
+        "occurrence": 25
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.108486, 
+            "longitude": -160.946831509
+        }, 
+        "name": "Tuluksak", 
+        "occurrence": 10
+    }, 
+    {
+        "coordinate": {
+            "latitude": 67.582668, 
+            "longitude": -162.993578515
+        }, 
+        "name": "Noatak", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 81.8954155, 
+            "longitude": -76.5940034
+        }, 
+        "name": "Quttinirpaaq National Park of Canada", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.5804949, 
+            "longitude": -73.4074985
+        }, 
+        "name": "Baffin Island", 
+        "occurrence": 35
+    }, 
+    {
+        "coordinate": {
+            "latitude": 74.683333, 
+            "longitude": -94.9
+        }, 
+        "name": "Resolute Bay", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 68.5330522, 
+            "longitude": 171.2469095
+        }, 
+        "name": "Chaun Bay", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 63.0685203, 
+            "longitude": -151.0077092
+        }, 
+        "name": "Mount McKinley", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.7279118, 
+            "longitude": 30.0463615
+        }, 
+        "name": "Barents Frokosthotell", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 78.2198, 
+            "longitude": 15.6349193
+        }, 
+        "name": "Longyearbyen", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -90.0, 
+            "longitude": 0.0
+        }, 
+        "name": "South Pole", 
+        "occurrence": 120
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.5336242, 
+            "longitude": 167.1652409
+        }, 
+        "name": "Mount Erebus", 
+        "occurrence": 5
+    }, 
+    {
+        "coordinate": {
+            "latitude": 65.0, 
+            "longitude": -58.0
+        }, 
+        "name": "Davis Strait", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 67.009959, 
+            "longitude": -50.6922261
+        }, 
+        "name": "Kangerlussuaq", 
+        "occurrence": 5
+    }, 
+    {
+        "coordinate": {
+            "latitude": 64.8377802, 
+            "longitude": -147.7163952
+        }, 
+        "name": "Fairbanks", 
+        "occurrence": 22
+    }, 
+    {
+        "coordinate": {
+            "latitude": -62.1757662, 
+            "longitude": -58.4760697
+        }, 
+        "name": "Ecology Glacier", 
+        "occurrence": 14
+    }, 
+    {
+        "coordinate": {
+            "latitude": 62.3911755, 
+            "longitude": -145.1315054
+        }, 
+        "name": "High Frequency Active Auroral Research Program", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -63.28117355, 
+            "longitude": -55.7504689757
+        }, 
+        "name": "Joinville Island", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": -60.6679168, 
+            "longitude": -45.6208046
+        }, 
+        "name": "Antarctic  estrecho", 
+        "occurrence": 86
+    }, 
+    {
+        "coordinate": {
+            "latitude": 66.5461111, 
+            "longitude": -162.7494444
+        }, 
+        "name": "Kotzebue Sound", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.0061111, 
+            "longitude": -149.3694444
+        }, 
+        "name": "Resurrection Bay", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 78.20458965, 
+            "longitude": 15.8780415421
+        }, 
+        "name": "Adventdalen", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": -70.668888, 
+            "longitude": -8.2672216
+        }, 
+        "name": "Neumayer Station", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.7996728, 
+            "longitude": 53.7094091
+        }, 
+        "name": "Pechora Bay", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 75.0, 
+            "longitude": -10.0000001
+        }, 
+        "name": "Greenland Sea", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": -71.0, 
+            "longitude": -85.0
+        }, 
+        "name": "Bellingshausen Sea", 
+        "occurrence": 12
+    }, 
+    {
+        "coordinate": {
+            "latitude": 64.316667, 
+            "longitude": -96.016667
+        }, 
+        "name": "Baker Lake", 
+        "occurrence": 5
+    }, 
+    {
+        "coordinate": {
+            "latitude": 64.574131, 
+            "longitude": 11.5270102892
+        }, 
+        "name": "North", 
+        "occurrence": 123
+    }, 
+    {
+        "coordinate": {
+            "latitude": 64.9841821, 
+            "longitude": -18.1059013
+        }, 
+        "name": "Iceland", 
+        "occurrence": 7
+    }, 
+    {
+        "coordinate": {
+            "latitude": 70.0, 
+            "longitude": 5.0
+        }, 
+        "name": "Norwegian Sea", 
+        "occurrence": 8
+    }, 
+    {
+        "coordinate": {
+            "latitude": 66.1531465, 
+            "longitude": -23.2575437
+        }, 
+        "name": "Holl Island", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": -71.88706545, 
+            "longitude": 171.187646379
+        }, 
+        "name": "Possession Island", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": -74.7387889, 
+            "longitude": 164.3863014
+        }, 
+        "name": "Terra Nova Bay", 
+        "occurrence": 9
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.0968272, 
+            "longitude": -151.788033
+        }, 
+        "name": "Kenai Peninsula Borough", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 71.658395, 
+            "longitude": 70.5230251
+        }, 
+        "name": "Yamal Peninsula", 
+        "occurrence": 20
+    }, 
+    {
+        "coordinate": {
+            "latitude": 64.4459613, 
+            "longitude": -149.680909
+        }, 
+        "name": "Alaska Range", 
+        "occurrence": 8
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.6586933, 
+            "longitude": -64.6886339
+        }, 
+        "name": "Calanus Harbour", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 74.0, 
+            "longitude": 35.9999999
+        }, 
+        "name": "Barents Sea", 
+        "occurrence": 56
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.218056, 
+            "longitude": -149.9002806
+        }, 
+        "name": "Anchorage", 
+        "occurrence": 49
+    }, 
+    {
+        "coordinate": {
+            "latitude": 64.8084114, 
+            "longitude": -147.4525327
+        }, 
+        "name": "Toolik River", 
+        "occurrence": 8
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.2556142, 
+            "longitude": -149.3041692
+        }, 
+        "name": "Kuparuk River", 
+        "occurrence": 45
+    }, 
+    {
+        "coordinate": {
+            "latitude": -66.5528889, 
+            "longitude": 93.0096667
+        }, 
+        "name": "Mirny", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 80.9166682, 
+            "longitude": -66.5000036
+        }, 
+        "name": "Kennedy Channel", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.1646615, 
+            "longitude": -129.0683473
+        }, 
+        "name": "Selwyn Mountains", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 76.5294828, 
+            "longitude": -68.6976235
+        }, 
+        "name": "Thule Air Base", 
+        "occurrence": 9
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.8444739, 
+            "longitude": 166.6696371
+        }, 
+        "name": "McMurdo Station", 
+        "occurrence": 52
+    }, 
+    {
+        "coordinate": {
+            "latitude": 76.233333, 
+            "longitude": -119.333333
+        }, 
+        "name": "Mould Bay", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": -69.3788889, 
+            "longitude": 76.3777778
+        }, 
+        "name": "Zhongshan Station", 
+        "occurrence": 5
+    }, 
+    {
+        "coordinate": {
+            "latitude": -67.1940909, 
+            "longitude": -68.3112084427
+        }, 
+        "name": "Adelaide Island", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -60.7050495, 
+            "longitude": -45.6279948
+        }, 
+        "name": "Signy Island", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": -68.5763889, 
+            "longitude": 77.9688889
+        }, 
+        "name": "Davis Station", 
+        "occurrence": 113
+    }, 
+    {
+        "coordinate": {
+            "latitude": 64.6863136, 
+            "longitude": 97.7453061
+        }, 
+        "name": "Russia", 
+        "occurrence": 364
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.472601, 
+            "longitude": -160.3914136
+        }, 
+        "name": "Kuskokwim River", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 70.0000073, 
+            "longitude": -90.0
+        }, 
+        "name": "Nunavut", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 67.2811173, 
+            "longitude": -162.6238657
+        }, 
+        "name": "Agashashok River", 
+        "occurrence": 6
+    }, 
+    {
+        "coordinate": {
+            "latitude": -75.0, 
+            "longitude": -175.0
+        }, 
+        "name": "Ross Sea", 
+        "occurrence": 100
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.8805361, 
+            "longitude": 164.911824038
+        }, 
+        "name": "Dailey Islands", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.0, 
+            "longitude": -174.0000001
+        }, 
+        "name": "Chukchi", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 76.0, 
+            "longitude": 125.9999999
+        }, 
+        "name": "Laptev Sea", 
+        "occurrence": 19
+    }, 
+    {
+        "coordinate": {
+            "latitude": 63.0000001, 
+            "longitude": -136.0000001
+        }, 
+        "name": "Yukon", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": -77.8465113, 
+            "longitude": 166.7580437
+        }, 
+        "name": "Scott Base", 
+        "occurrence": 14
+    }, 
+    {
+        "coordinate": {
+            "latitude": 61.8489975, 
+            "longitude": -6.91612291887
+        }, 
+        "name": "Faroe Islands", 
+        "occurrence": 2
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.039375, 
+            "longitude": 27.74353125
+        }, 
+        "name": "Lake Inari", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 69.0756091, 
+            "longitude": -154.5030531
+        }, 
+        "name": "Colville River", 
+        "occurrence": 17
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.7922222, 
+            "longitude": -161.7558333
+        }, 
+        "name": "Bethel", 
+        "occurrence": 18
+    }, 
+    {
+        "coordinate": {
+            "latitude": 63.7640205, 
+            "longitude": -171.716047363
+        }, 
+        "name": "Gambell", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": -89.9982179, 
+            "longitude": -92.5657606
+        }, 
+        "name": "Amundsen-Scott South Pole Station", 
+        "occurrence": 51
+    }, 
+    {
+        "coordinate": {
+            "latitude": 63.1831737, 
+            "longitude": -151.148363067
+        }, 
+        "name": "Denali National Park", 
+        "occurrence": 12
+    }, 
+    {
+        "coordinate": {
+            "latitude": -66.2664006, 
+            "longitude": 100.934867641
+        }, 
+        "name": "Bunger Hills", 
+        "occurrence": 58
+    }, 
+    {
+        "coordinate": {
+            "latitude": 70.490095, 
+            "longitude": -157.385330146
+        }, 
+        "name": "Atqasuk", 
+        "occurrence": 63
+    }, 
+    {
+        "coordinate": {
+            "latitude": -64.7741944, 
+            "longitude": -64.0530556
+        }, 
+        "name": "Palmer Station", 
+        "occurrence": 22
+    }, 
+    {
+        "coordinate": {
+            "latitude": 71.9212608, 
+            "longitude": 127.0345913
+        }, 
+        "name": "Lena River", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 76.0, 
+            "longitude": 79.9999999
+        }, 
+        "name": "Kara Sea", 
+        "occurrence": 13
+    }, 
+    {
+        "coordinate": {
+            "latitude": -62.2231111, 
+            "longitude": -58.7870556
+        }, 
+        "name": "King Sejong Station", 
+        "occurrence": 12
+    }, 
+    {
+        "coordinate": {
+            "latitude": 70.0, 
+            "longitude": -135.0
+        }, 
+        "name": "Beaufort Sea", 
+        "occurrence": 149
+    }, 
+    {
+        "coordinate": {
+            "latitude": 83.0401008, 
+            "longitude": -69.7943441
+        }, 
+        "name": "Ellesmere Island", 
+        "occurrence": 50
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.333333, 
+            "longitude": -1.333333
+        }, 
+        "name": "Shetland Islands", 
+        "occurrence": 83
+    }, 
+    {
+        "coordinate": {
+            "latitude": 62.0000001, 
+            "longitude": -70.0000001
+        }, 
+        "name": "Hudson Strait", 
+        "occurrence": 3
+    }, 
+    {
+        "coordinate": {
+            "latitude": 65.9724933, 
+            "longitude": -168.7921009
+        }, 
+        "name": "Bering Strait", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 65.868813, 
+            "longitude": -149.2569874
+        }, 
+        "name": "Yukon River", 
+        "occurrence": 19
+    }, 
+    {
+        "coordinate": {
+            "latitude": 66.682386, 
+            "longitude": 13.770803
+        }, 
+        "name": "Engabreen", 
+        "occurrence": 5
+    }, 
+    {
+        "coordinate": {
+            "latitude": -80.0166667, 
+            "longitude": -119.5333333
+        }, 
+        "name": "Byrd Station", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.2408229, 
+            "longitude": -123.471225
+        }, 
+        "name": "Fort Liard", 
+        "occurrence": 4
+    }, 
+    {
+        "coordinate": {
+            "latitude": 73.0, 
+            "longitude": -67.0
+        }, 
+        "name": "Baffin Bay", 
+        "occurrence": 22
+    }, 
+    {
+        "coordinate": {
+            "latitude": -67.5692194, 
+            "longitude": -68.1221663
+        }, 
+        "name": "Rothera", 
+        "occurrence": 1
+    }, 
+    {
+        "coordinate": {
+            "latitude": 60.719565, 
+            "longitude": 114.9173742
+        }, 
+        "name": "Eastern Asia", 
+        "occurrence": 2
+    }
+]

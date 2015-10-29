@@ -1,0 +1,20 @@
+<plugin id="urlfilter-near-dedup" name="near dedup in url filter"
+        version="1.0.0" provider-name="sureleo">
+
+    <runtime>
+        <library name="urlfilter-near-dedup.jar">
+            <export name="*"/>
+        </library>
+    </runtime>
+
+    <requires>
+        <import plugin="nutch-extensionpoints"/>
+    </requires>
+
+    <extension id="org.apache.nutch.net.urlfilter.neardedup"
+               name="Nutch Url Filter with NEAR deduplications"
+               point="org.apache.nutch.net.URLFilter">
+        <implementation id="URLNearDedupFilter"
+                        class="org.apache.nutch.urlfilter.neardedup.URLNearDedupFilter"/>
+    </extension>
+</plugin>
